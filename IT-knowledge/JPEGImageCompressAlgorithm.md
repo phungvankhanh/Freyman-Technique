@@ -1,5 +1,5 @@
 # Thuật toán nén ảnh JPEG:  
-**-Định nghĩa:**Là thuật toán dùng để giảm dung lượng của ảnh JPEG(ảnh tĩnh),
+**-Định nghĩa:** Là thuật toán dùng để giảm dung lượng của ảnh JPEG(ảnh tĩnh),
 mà không ảnh hưởng quá nhiều đến nội dung của ảnh(phụ thuộc vào hệ số nén).  
 **-Phương pháp nén ảnh:** từ dữ liệu ảnh đọc vào thành các số, dùng biến đổi cosin rời rạc kết hợp mã hóa Huffman
 hoặc phương pháp Harra để làm các thành phần dư thừa bị biến mất.  
